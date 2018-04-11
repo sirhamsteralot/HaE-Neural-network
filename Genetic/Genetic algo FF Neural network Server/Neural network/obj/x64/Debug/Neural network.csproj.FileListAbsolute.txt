@@ -1,0 +1,84 @@
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\Neural network.exe
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\Neural network.pdb
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\MDKUtilities.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\HavokWrapper.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\VRage.OpenVRWrapper.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\VRage.Ansel.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.Desktop.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.Mathematics.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\Microsoft.CodeAnalysis.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\System.Collections.Immutable.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.DirectInput.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\DirectShowLib-2005.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\System.Reflection.Metadata.dll
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\HavokWrapper.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.Desktop.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.Mathematics.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\Microsoft.CodeAnalysis.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\System.Collections.Immutable.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\SharpDX.DirectInput.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\bin\System.Reflection.Metadata.xml
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\obj\x64\Debug\Neural network.csprojResolveAssemblyReference.cache
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\obj\x64\Debug\Neural network.exe
+D:\shit\scripts\VS\Neural network\Neural network\Neural network\obj\x64\Debug\Neural network.pdb
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\Neural network.exe
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\Neural network.pdb
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\MDKUtilities.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\HavokWrapper.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\VRage.OpenVRWrapper.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\VRage.Ansel.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.Desktop.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.Mathematics.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\Microsoft.CodeAnalysis.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\System.Collections.Immutable.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.DirectInput.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\DirectShowLib-2005.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\System.Reflection.Metadata.dll
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\HavokWrapper.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.Desktop.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.Mathematics.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\Microsoft.CodeAnalysis.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\System.Collections.Immutable.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\SharpDX.DirectInput.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\bin\System.Reflection.Metadata.xml
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\obj\x64\Debug\Neural network.csprojResolveAssemblyReference.cache
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\obj\x64\Debug\Neural network.exe
+D:\shit\scripts\VS\Neural network\Gradient descent FF Neural network\Neural network\obj\x64\Debug\Neural network.pdb
+D:\shit\scripts\VS\Neural network\Genetic algo FF Neural network\Neural network\obj\x64\Debug\Neural network.csprojResolveAssemblyReference.cache
+D:\shit\scripts\VS\Neural network\Genetic algo FF Neural network\Neural network\obj\x64\Debug\Neural network.exe
+D:\shit\scripts\VS\Neural network\Genetic algo FF Neural network\Neural network\obj\x64\Debug\Neural network.pdb
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\Neural network.exe
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\Neural network.pdb
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\MDKUtilities.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\HavokWrapper.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\VRage.OpenVRWrapper.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\VRage.Ansel.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.Desktop.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.Mathematics.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\Microsoft.CodeAnalysis.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\System.Collections.Immutable.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.DirectInput.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\DirectShowLib-2005.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\System.Reflection.Metadata.dll
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\HavokWrapper.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.Desktop.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.Mathematics.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\Microsoft.CodeAnalysis.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\System.Collections.Immutable.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\SharpDX.DirectInput.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\bin\System.Reflection.Metadata.xml
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\obj\x64\Debug\Neural network.csprojResolveAssemblyReference.cache
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\obj\x64\Debug\Neural network.exe
+D:\shit\scripts\VS\Neural network\Genetic\Genetic algo FF Neural network Agent\Neural network\obj\x64\Debug\Neural network.pdb
